@@ -4,10 +4,10 @@ This analysis Shows Amazon product data, focusing on pricing strategy, customer 
 
 ## What Was Done
 - Data Cleaning
-The raw dataset was cleaned by removing inconsistent, irrelevant columns, and empty rows.
+The raw dataset was cleaned by removing inconsistent, irrelevant columns, and empty rows. You can 
 
 - Average Discount Analysis: 
-I was able to identify categories with high or low discount by calculating the Calculated the average discount percentage per product category.
+I was able to identify categories with high or low discount by calculating the average discount percentage per product category.
 
 - Product Volume by Category: 
 I summed the number of products listed under each category to understand distribution.
