@@ -4,7 +4,7 @@ This analysis Shows Amazon product data, focusing on pricing strategy, customer 
 
 ## What Was Done
 - Data Cleaning
-The raw dataset was cleaned by removing inconsistent, irrelevant columns, and empty rows. You can check the cleaned dataset here [Amazon casestudy](Amazon casestudy.xlsx)
+The raw dataset was cleaned by removing inconsistent, irrelevant columns, and empty rows.
 
 - Average Discount Analysis: 
 I was able to identify categories with high or low discount by calculating the average discount percentage per product category.
@@ -38,6 +38,7 @@ I discovered by Comparing ratings across products with <50% and ≥50% discounts
 
 - Low-Reviewed Products: 
 I extracted well-rated products with under 1000 reviews—potential for improved visibility.
+
 The dashboard showcases all the questions posed earlier ![Dashboard](Dashboard.png)
 
 # Key Recommendations for Amazon
@@ -51,7 +52,7 @@ The dashboard showcases all the questions posed earlier ![Dashboard](Dashboard.p
 
 - Boost Visibility of Low-Reviewed Products
 
--Implement targeted campaigns to promote quality products with <1000 reviews.
+- Implement targeted campaigns to promote quality products with <1000 reviews.
 
 - Balance Product Categories
 
@@ -71,3 +72,8 @@ The dashboard showcases all the questions posed earlier ![Dashboard](Dashboard.p
 
 # Conclusion
 This analysis provides insights into product performance, customer engagement, and pricing efficiency. By implementing the recommendations above, Amazon can better align its strategies for improved profitability, customer satisfaction, and operational efficiency.
+
+
+# Analyst Name: Jadesola Ogundele
+# Tools Used: Microsoft Excel
+# LinkedIn:www.linkedin.com/in/jadesolaogundele 
