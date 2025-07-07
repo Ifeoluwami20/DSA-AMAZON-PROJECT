@@ -4,7 +4,7 @@ This analysis Shows Amazon product data, focusing on pricing strategy, customer 
 
 ## What Was Done
 - Data Cleaning
-The raw dataset was cleaned by removing inconsistent, irrelevant columns, and empty rows. You can 
+The raw dataset was cleaned by removing inconsistent, irrelevant columns, and empty rows. You can check the cleaned dataset here [Case study 1(amazon)](Case Study 1(Amazon).xlsx)
 
 - Average Discount Analysis: 
 I was able to identify categories with high or low discount by calculating the average discount percentage per product category.
@@ -38,6 +38,7 @@ I discovered by Comparing ratings across products with <50% and ≥50% discounts
 
 - Low-Reviewed Products: 
 I extracted well-rated products with under 1000 reviews—potential for improved visibility.
+The dashboard showcases all the questions posed earlier ![Dashboard](Screenshot (21).png)
 
 # Key Recommendations for Amazon
 - Pricing for Mid-Tier Products should be optimized
